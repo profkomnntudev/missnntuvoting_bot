@@ -7,7 +7,7 @@ import json
 import psycopg2
 
 conn = psycopg2.connect(dbname='root', user='root', 
-                        password='T-gETSdEo-YYCZ_qiLktK6EQ250kP1X3', host='localhost')
+                        password='akiyoss', host='localhost')
 
 print(conn)
 arr = os.listdir("./photos")
