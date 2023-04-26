@@ -6,10 +6,10 @@ import os
 import json
 import psycopg2
 
-conn = psycopg2.connect(dbname='hhneqapv', user='hhneqapv', 
-                        password='T-gETSdEo-YYCZ_qiLktK6EQ250kP1X3', host='lallah.db.elephantsql.com')
+conn = psycopg2.connect(dbname='root', user='root', 
+                        password='T-gETSdEo-YYCZ_qiLktK6EQ250kP1X3', host='localhost')
 
-
+print(conn)
 arr = os.listdir("./photos")
 
 f = open('womans.json', encoding="UTF-8")
