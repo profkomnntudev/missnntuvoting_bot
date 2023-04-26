@@ -1,0 +1,40 @@
+{
+	"womans": [
+		{
+			"name": "София Калашникова",
+			"nameWHO": "Софию Калашникову",
+			"photo": "./photos/kalashnikova.jpg",
+			"tag": "kalashnikova"
+		},
+		{
+			"name": "Даша Лапшенкова",
+			"nameWHO": "Дашу Лапшенкову",
+			"photo": "./photos/lapshenkova.jpg",
+			"tag": "lapshenkova"
+		},
+		{
+			"name": "Елизавета Серкина",
+			"nameWHO": "Елизавету Серкину",
+			"photo": "./photos/serkina.jpg",
+			"tag": "serkina"
+		},
+		{
+			"name": "Катя Удалова",
+			"nameWHO": "Катю Удалову",
+			"photo": "./photos/udalova.jpg",
+			"tag": "udalova"
+		},
+		{
+			"name": "Настя Васильева",
+			"nameWHO": "Настю Васильеву",
+			"photo": "./photos/vasileva.jpg",
+			"tag": "vasileva"
+		},
+		{
+			"name": "Алина Виленская",
+			"nameWHO": "Алину Виленскую",
+			"photo": "./photos/vilenskaya.jpg",
+			"tag": "vilenskaya"
+		}
+	]
+}
